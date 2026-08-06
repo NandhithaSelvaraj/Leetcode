@@ -1,24 +1,19 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array
+ * Link: https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array
  * Language: java
- * Date: 2026-08-05
+ * Date: 2026-08-06
  */
 
-import java.util.*;
-
 class Solution {
-    public List<Integer> findMissingElements(int[] nums) {
-        Arrays.sort(nums);
-        List<Integer> ans = new ArrayList<>();
-
-        for (int i = 0; i < nums.length - 1; i++) {
-            for (int j = nums[i] + 1; j < nums[i + 1]; j++) {
-                ans.add(j);
+    public List<Integer> findWordsContaining(String[] words, char x) {
+        List<Integer> result = new ArrayList<>();
+        for(int i = 0;i<words.length;i++) {
+            if(words[i].indexOf(x) != -1){
+                result.add(i);
             }
         }
-
-        return ans;
+        return result;
     }
 }
