@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
-- **Easy:** 1 🟢
+- **Total Problems Solved:** 4
+- **Easy:** 2 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -14,21 +14,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2114099540/) | 🟢 Easy | java | 2026-08-20 |
+| [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/2117354453/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-23 |
 | [Unknown Problem](https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-05 |
 | [Unknown Problem](https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-06 |
 
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-<!---LeetCode Topics End-->
