@@ -21,3 +21,23 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0645-set-mismatch) |
+<!---LeetCode Topics End-->
