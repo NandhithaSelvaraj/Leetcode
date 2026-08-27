@@ -26,3 +26,23 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0067-add-binary) |
+<!---LeetCode Topics End-->
