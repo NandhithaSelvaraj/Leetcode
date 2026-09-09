@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Array
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -58,4 +59,16 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
