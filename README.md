@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -71,4 +72,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
