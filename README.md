@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
