@@ -44,6 +44,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
