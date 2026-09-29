@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
-- **Easy:** 8 🟢
+- **Total Problems Solved:** 11
+- **Easy:** 9 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/submissions/2117387893/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-23 |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/submissions/2121714259/) | 🟢 Easy | java | 2026-08-27 |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/submissions/2121856846/) | 🟢 Easy | java | 2026-08-27 |
+| [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2156779597/) | 🟢 Easy | java | 2026-09-29 |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/submissions/2120961258/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-26 |
 | [Unknown Problem](https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-05 |
 | [Unknown Problem](https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-06 |
@@ -27,55 +28,3 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
-| [0485-max-consecutive-ones](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0485-max-consecutive-ones) |
-| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Hash Table
-|  |
-| ------- |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Linked List
-|  |
-| ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Simulation
-|  |
-| ------- |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Doubly-Linked List
-|  |
-| ------- |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Ordered Set
-|  |
-| ------- |
-| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
-## Depth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
-## Matrix
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0463-island-perimeter) |
-## String
-|  |
-| ------- |
-| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
-<!---LeetCode Topics End-->
