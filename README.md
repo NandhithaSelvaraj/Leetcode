@@ -29,3 +29,19 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
+<!---LeetCode Topics End-->
