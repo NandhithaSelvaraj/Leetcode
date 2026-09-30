@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 13
+- **Total Problems Solved:** 14
 - **Easy:** 11 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/submissions/2120961258/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-26 |
 | [Unknown Problem](https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-05 |
 | [Unknown Problem](https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-06 |
+| [Unknown Problem](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2158063123/) | 🟡 Medium | java | 2026-09-30 |
 
 ---
 
