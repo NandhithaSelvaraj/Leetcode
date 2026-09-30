@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 12
+- **Easy:** 10 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2118597446/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-24 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2119324467/) | 🟢 Easy | java | 2026-08-25 |
+| [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2158034579/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-09-30 |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2114099540/) | 🟢 Easy | java | 2026-08-20 |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/2117354453/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-23 |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/submissions/2117387893/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-23 |
@@ -28,19 +29,3 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
-## Binary Search
-|  |
-| ------- |
-| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
-## Counting
-|  |
-| ------- |
-| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
-<!---LeetCode Topics End-->
