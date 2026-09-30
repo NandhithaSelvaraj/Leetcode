@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
-- **Easy:** 10 🟢
+- **Total Problems Solved:** 13
+- **Easy:** 11 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2118597446/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-08-24 |
+| [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2158063123/) | 🟢 Easy | java | 2026-09-30 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2119324467/) | 🟢 Easy | java | 2026-08-25 |
 | [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2158034579/?envType=problem-list-v2&envId=array) | 🟢 Easy | java | 2026-09-30 |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2114099540/) | 🟢 Easy | java | 2026-08-20 |
@@ -29,24 +30,3 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
-| [1480-running-sum-of-1d-array](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
-## Sorting
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0905-sort-array-by-parity) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
-<!---LeetCode Topics End-->
