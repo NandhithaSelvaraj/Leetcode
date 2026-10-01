@@ -31,3 +31,19 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
