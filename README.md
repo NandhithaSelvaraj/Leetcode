@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +60,12 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
