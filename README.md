@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
+- **Total Problems Solved:** 15
 - **Easy:** 11 🟢
 - **Medium:** 3 🟡
-- **Hard:** 0 🔴
+- **Hard:** 1 🔴
 
 ## 📝 Problems
 
@@ -27,63 +27,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-05 |
 | [Unknown Problem](https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-06 |
 | [Unknown Problem](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2158063123/) | 🟡 Medium | java | 2026-09-30 |
+| [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2165379969/?envType=daily-question&envId=2026-10-07) | 🔴 Hard | java | 2026-10-07 |
 
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0032-longest-valid-parentheses) |
-| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
-## Array
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-## Math
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-## Prefix Sum
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
-| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-## Greedy
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
-<!---LeetCode Topics End-->
