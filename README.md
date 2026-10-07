@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0020-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -76,8 +77,13 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
