@@ -7,18 +7,12 @@ class Solution {
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            boolean[] seen = new boolean[101];
-            int distinct = 0;
+            Set<Integer> set = new HashSet<>();
 
             for (int j = i; j < n; j++) {
-                int num = nums.get(j);
-
-                if (!seen[num]) {
-                    seen[num] = true;
-                    distinct++;
-                }
-
-                ans += distinct * distinct;
+                set.add(nums.get(j));
+                int count = set.size();
+                ans += count * count;
             }
         }
 
