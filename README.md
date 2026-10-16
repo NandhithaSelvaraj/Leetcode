@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
+- **Total Problems Solved:** 16
 - **Easy:** 11 🟢
 - **Medium:** 3 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -27,73 +27,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/find-missing-elements/submissions/2095446426/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-05 |
 | [Unknown Problem](https://leetcode.com/problems/find-words-containing-character/submissions/2096540487/?envType=problem-list-v2&envId=array) | 🟡 Medium | java | 2026-08-06 |
 | [Unknown Problem](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2158063123/) | 🟡 Medium | java | 2026-09-30 |
+| [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/submissions/2174064924/?envType=daily-question&envId=2026-10-16) | 🔴 Hard | java | 2026-10-16 |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2165379969/?envType=daily-question&envId=2026-10-07) | 🔴 Hard | java | 2026-10-07 |
 
 ---
 
 *Generated automatically by [LeetCode to GitHub Extension](https://github.com/NandhithaSelvaraj/Leetcode)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1021-remove-outermost-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Stack
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1021-remove-outermost-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1021-remove-outermost-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Greedy
-|  |
-| ------- |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-## Array
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Binary Search
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Sorting
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Enumeration
-|  |
-| ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
-## Hash Table
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Segment Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NandhithaSelvaraj/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-<!---LeetCode Topics End-->
